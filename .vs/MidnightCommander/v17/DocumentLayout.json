@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|c:\\users\\p0dsk\\desktop\\midnightcommander\\popups\\copypopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:popups\\copypopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|c:\\users\\p0dsk\\desktop\\midnightcommander\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|c:\\users\\p0dsk\\desktop\\midnightcommander\\windows\\editwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:windows\\editwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\marker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:marker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\popups\\deletepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:popups\\deletepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\windows\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:windows\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\windows\\popupwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:windows\\popupwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\popups\\savepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:popups\\savepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\windows\\tablewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:windows\\tablewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\popups\\errorpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:popups\\errorpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\popups\\mkdirpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:popups\\mkdirpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\popups\\movepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAFA6E4-11BD-4038-869C-CA44D5DDD73A}|MidnightCommander.csproj|solutionrelative:popups\\movepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 403,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CopyPopup.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\CopyPopup.cs",
+              "RelativeDocumentMoniker": "Popups\\CopyPopup.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\CopyPopup.cs",
+              "RelativeToolTip": "Popups\\CopyPopup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:30:38.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Application.cs",
+              "RelativeDocumentMoniker": "Application.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Application.cs",
+              "RelativeToolTip": "Application.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:23.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\FileService.cs",
+              "RelativeDocumentMoniker": "FileService.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\FileService.cs",
+              "RelativeToolTip": "FileService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SavePopup.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\SavePopup.cs",
+              "RelativeDocumentMoniker": "Popups\\SavePopup.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\SavePopup.cs",
+              "RelativeToolTip": "Popups\\SavePopup.cs",
+              "ViewState": "AQIAAAoAAAAAMzMzMzMrwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Windows\\Window.cs",
+              "RelativeDocumentMoniker": "Windows\\Window.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Windows\\Window.cs",
+              "RelativeToolTip": "Windows\\Window.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:23.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Marker.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Marker.cs",
+              "RelativeDocumentMoniker": "Marker.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Marker.cs",
+              "RelativeToolTip": "Marker.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwDoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeletePopup.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\DeletePopup.cs",
+              "RelativeDocumentMoniker": "Popups\\DeletePopup.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\DeletePopup.cs",
+              "RelativeToolTip": "Popups\\DeletePopup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableWindow.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Windows\\TableWindow.cs",
+              "RelativeDocumentMoniker": "Windows\\TableWindow.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Windows\\TableWindow.cs",
+              "RelativeToolTip": "Windows\\TableWindow.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAADwv10AAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PopupWindow.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Windows\\PopupWindow.cs",
+              "RelativeDocumentMoniker": "Windows\\PopupWindow.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Windows\\PopupWindow.cs",
+              "RelativeToolTip": "Windows\\PopupWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Position.cs",
+              "RelativeDocumentMoniker": "Position.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Position.cs",
+              "RelativeToolTip": "Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovePopup.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\MovePopup.cs",
+              "RelativeDocumentMoniker": "Popups\\MovePopup.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\MovePopup.cs",
+              "RelativeToolTip": "Popups\\MovePopup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MkdirPopup.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\MkdirPopup.cs",
+              "RelativeDocumentMoniker": "Popups\\MkdirPopup.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\MkdirPopup.cs",
+              "RelativeToolTip": "Popups\\MkdirPopup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Size.cs",
+              "RelativeDocumentMoniker": "Size.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Size.cs",
+              "RelativeToolTip": "Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorPopup.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\ErrorPopup.cs",
+              "RelativeDocumentMoniker": "Popups\\ErrorPopup.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Popups\\ErrorPopup.cs",
+              "RelativeToolTip": "Popups\\ErrorPopup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.349Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 350,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditWindow.cs",
+              "DocumentMoniker": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Windows\\EditWindow.cs",
+              "RelativeDocumentMoniker": "Windows\\EditWindow.cs",
+              "ToolTip": "C:\\Users\\p0dsk\\Desktop\\MidnightCommander\\Windows\\EditWindow.cs",
+              "RelativeToolTip": "Windows\\EditWindow.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwFIBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:28:24.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
